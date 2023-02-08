@@ -1,0 +1,99 @@
+.main-tab {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.data-list {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px;
+
+  .data-item {
+    width: 100%;
+    display: flex;
+    border-bottom: 0.3px solid rgba(165, 164, 164, 0.686);
+    padding: 7px 5px;
+    transition: 0.3s;
+    cursor: pointer;
+
+    img {
+      $size: 50px;
+      width: $size;
+      border: 0.3px solid rgba(165, 164, 164, 0.686);
+      height: $size;
+      background: #000;
+      border-radius: 5px;
+      object-fit: cover;
+    }
+
+    .data-info {
+      display: flex;
+      flex-direction: column;
+      margin-left: 10px;
+      margin-top: 4px;
+
+      span {
+        color: #000;
+        font-weight: 600;
+
+        b {
+          position: relative;
+          top: -1px;
+          font-size: 20px;
+        }
+      }
+    }
+
+    &:hover {
+      background: rgba(221, 221, 221, 0.296);
+      transition: 0.3s;
+      border-left: 5px solid rgb(82, 82, 243);
+    }
+
+    &.active {
+      background: rgba(144, 233, 236, 0.296);
+      transition: 0.3s;
+      border-left: 5px solid rgb(59, 216, 182);
+    }
+  }
+}
+
+// details table
+
+.details-table {
+  background: #fff;
+  border: 1px solid #ddd;
+
+  .item {
+    padding: 8px 10px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+
+    strong {
+      color: #333;
+    }
+  }
+}
+
+.broker-data-button {
+  position: relative;
+  background-color: #eaa050;
+  padding: 0.625rem 1.25rem;
+  color: white;
+  text-align: center;
+  border-radius: 0.375rem;
+  font-weight: 600;
+
+  &:hover {
+    cursor: pointer;
+    bottom:  2px;
+  }
+
+}

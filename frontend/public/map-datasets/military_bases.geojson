@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Marine Corps Air Station Futenma" }, "geometry": { "type": "Point", "coordinates": [ 127.75501, 26.2725195 ] } },
+{ "type": "Feature", "properties": { "Name": "US FLEET ACTIVITIES SASEBO" }, "geometry": { "type": "Point", "coordinates": [ 129.714054, 33.1688753 ] } },
+{ "type": "Feature", "properties": { "Name": "United States Fleet Activities Yokosuka" }, "geometry": { "type": "Point", "coordinates": [ 139.66922120000001, 35.2906436 ] } },
+{ "type": "Feature", "properties": { "Name": "Kadena Air Base" }, "geometry": { "type": "Point", "coordinates": [ 127.7678754, 26.3556897 ] } },
+{ "type": "Feature", "properties": { "Name": "Marine Corps Air Station Iwakuni" }, "geometry": { "type": "Point", "coordinates": [ 132.225183500000014, 34.1428367 ] } },
+{ "type": "Feature", "properties": { "Name": "JASDF Misawa Air Base" }, "geometry": { "type": "Point", "coordinates": [ 141.3745702, 40.6989231 ] } },
+{ "type": "Feature", "properties": { "Name": "Naval Air Facility Atsugi" }, "geometry": { "type": "Point", "coordinates": [ 139.4478945, 35.4581818 ] } },
+{ "type": "Feature", "properties": { "Name": "Camp Zama Gate 1" }, "geometry": { "type": "Point", "coordinates": [ 139.3972076, 35.4920299 ] } },
+{ "type": "Feature", "properties": { "Name": "Sobe" }, "geometry": { "type": "Point", "coordinates": [ 127.7370562, 26.3835214 ] } },
+{ "type": "Feature", "properties": { "Name": "Yokota Air Base" }, "geometry": { "type": "Point", "coordinates": [ 139.349771800000013, 35.7476602 ] } },
+{ "type": "Feature", "properties": { "Name": "Hardy Barracks" }, "geometry": { "type": "Point", "coordinates": [ 139.7252307, 35.6624346 ] } },
+{ "type": "Feature", "properties": { "Name": "Yokota Air Base" }, "geometry": { "type": "Point", "coordinates": [ 139.349771800000013, 35.7476602 ] } },
+{ "type": "Feature", "properties": { "Name": "Fuchu Communications Station" }, "geometry": { "type": "Point", "coordinates": [ 139.4957238, 35.6804582 ] } },
+{ "type": "Feature", "properties": { "Name": "Tama Hills Recreation Annex Parking" }, "geometry": { "type": "Point", "coordinates": [ 139.4833075, 35.6442423 ] } },
+{ "type": "Feature", "properties": { "Name": "Owada HF Receive Site" }, "geometry": { "type": "Point", "coordinates": [ 139.546213200000011, 35.7817001 ] } },
+{ "type": "Feature", "properties": { "Name": "Iwo Jima Airport/Iohjima Airport/Iohtoh Airport" }, "geometry": { "type": "Point", "coordinates": [ 141.325170899999989, 24.7850482 ] } },
+{ "type": "Feature", "properties": { "Name": "New Sanno Hotel" }, "geometry": { "type": "Point", "coordinates": [ 139.7253402, 35.6468091 ] } },
+{ "type": "Feature", "properties": { "Name": "Fort Buckner" }, "geometry": { "type": "Point", "coordinates": [ 127.7776776, 26.2950757 ] } },
+{ "type": "Feature", "properties": { "Name": "Camp Fuji" }, "geometry": { "type": "Point", "coordinates": [ 138.868611111110994, 35.3205555555556 ] } },
+{ "type": "Feature", "properties": { "Name": "Camp Lester" }, "geometry": { "type": "Point", "coordinates": [ 127.7631479, 26.3145963 ] } },
+{ "type": "Feature", "properties": { "Name": "MCAS Iwakuni" }, "geometry": { "type": "Point", "coordinates": [ 132.2214314, 34.1516356 ] } },
+{ "type": "Feature", "properties": { "Name": "Marine Corps Jungle Warfare Training Center" }, "geometry": { "type": "Point", "coordinates": [ 128.2325322, 26.6848563 ] } },
+{ "type": "Feature", "properties": { "Name": "Camp McTureous Housing Gate" }, "geometry": { "type": "Point", "coordinates": [ 127.8465248, 26.3820451 ] } },
+{ "type": "Feature", "properties": { "Name": "Former Yontan Airfield" }, "geometry": { "type": "Point", "coordinates": [ 127.746682, 26.3938358 ] } },
+{ "type": "Feature", "properties": { "Name": "Okinawa Naval base" }, "geometry": { "type": "Point", "coordinates": [ 127.927777777778005, 26.4794444444444 ] } }
+]
+}

@@ -1,0 +1,57 @@
+.parameters {
+  .btn-group {
+    margin-top: 0px;
+    border-radius: 13px;
+  }
+  .btn-secondary {
+    
+    border-radius: 13px;
+    background-color: rgba(209, 206, 206, 0.685);
+    padding: 5px !important;
+  }
+
+
+  .btn-secondary.active {
+    border-radius: 13px !important;
+    background: linear-gradient(to right, #3a7bd5, #19939e);
+    color: #fff !important;
+    box-shadow: rgba(16, 15, 15, 0.24) 0px 3px 8px !important;
+    margin: 0px -5px !important;
+  }
+
+  .content-tabs {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+
+    .tab {
+      display: none;
+    }
+
+    .active-tab {
+      display: block;
+    }
+
+    #latitude {
+      display: flex;
+
+      h3 {
+        flex: 1;
+      }
+
+      .fa-sliders {
+        width: 20px;
+      }
+    }
+  }
+
+  #slider-logo {
+    &:hover {
+      background-color: #04ccde2a;
+    }
+  }
+}
+
+
+
+

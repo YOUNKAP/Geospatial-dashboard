@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "skyhawk-node",
+      "script": "cd backend && yarn start"
+    }
+  ]
+}

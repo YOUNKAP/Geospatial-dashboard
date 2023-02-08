@@ -1,0 +1,6 @@
+/input-datasets
+/output-sql
+/node_modules
+/output-datasets
+/hazard-datasets
+.env
